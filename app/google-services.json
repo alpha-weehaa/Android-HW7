@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106447815382",
+    "firebase_url": "https://webprograming-68459.firebaseio.com",
+    "project_id": "webprograming-68459",
+    "storage_bucket": "webprograming-68459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106447815382:android:6d01a6617f8bcec8",
+        "android_client_info": {
+          "package_name": "com.homework.iusam.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106447815382-mvhnbvqhq58fmhlnsjjp7i1h7gjdgut9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homework.iusam.myapplication",
+            "certificate_hash": "b8aab0cd1ccd45c4feb2419ce47e26846dc70be1"
+          }
+        },
+        {
+          "client_id": "106447815382-0cini9u2ip6f6ih7nqrmtqdnn3b2ba45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfl0DAzXkOr0bOQQJnYIMQJgRLJ0azBvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106447815382-0cini9u2ip6f6ih7nqrmtqdnn3b2ba45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
